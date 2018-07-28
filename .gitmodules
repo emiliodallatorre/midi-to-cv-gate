@@ -1,0 +1,3 @@
+[submodule "DigisparkMIDI"]
+	path = DigisparkMIDI
+	url = https://github.com/heartscrytech/DigisparkMIDI.git
